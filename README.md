@@ -7,6 +7,8 @@ The output:
 
 ![Hand joint detection using Mediapipe and OpenCV](https://i1.wp.com/shahinur.com/wp-content/uploads/2021/08/Hand-joint-detection-using-mediapipe.png "Hand joint detection using Mediapipe and OpenCV")
 
+*** Make sure you have webcam connected.
+
 For detials,visit [my personal webpage](https://shahinur.com/en/hand-joint-detection-using-opencv-and-mediapipe/)
 
 
